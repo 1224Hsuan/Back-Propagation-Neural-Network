@@ -7,7 +7,7 @@ A program to simulate the function.
 
 ## Result
 * Training and Test datasets are created randomly.
-* After 100 epochs, the training and simulation RMSE is both close to 0.35.
+* After 100 epochs, the training and simulation RMSE are both close to 0.35.
 
 ## Operating Method
 * Run EBPTA2.m.
